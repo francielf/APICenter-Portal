@@ -2,7 +2,7 @@
   "dataApiHostName": "ufotestapicenter.data.eastus.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
-      "clientId": "92855a8e-499b-4a3d-bb41-2482c80e375c",
+      "clientId": "23efb468-a5a9-4885-ae29-29b720528e2f",
       "tenantId": "06bf2ba4-6f50-4fad-94ce-da2649063215",
       "scopes": ["https://azure-apicenter.net/user_impersonation"],
       "authority": "https://login.microsoftonline.com/"
