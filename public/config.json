@@ -1,5 +1,5 @@
 {
-  "dataApiHostName": "ufotestapicenter.data.eastus.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "apictest.data.eastus.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
       "clientId": "23efb468-a5a9-4885-ae29-29b720528e2f",
